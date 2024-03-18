@@ -37,14 +37,14 @@ Attention to select 2 public subnets in 2 zones
 
 Security group
 
-![](a../images/8-SetUpApplicationLoadbalance/Pastedimage20240305160626.png)
+![a](/images/8-SetUpApplicationLoadbalance/Pastedimage20240305160626.png)
 
-![](a../images/8-SetUpApplicationLoadbalance/Pastedimage20240305161025.png)
+![a](/images/8-SetUpApplicationLoadbalance/Pastedimage20240305161025.png)
 
 Done, now we coppy DNS and proceed to access the test site
 
-![](a../images/8-SetUpApplicationLoadbalance/Pastedimage20240305161202.png)
+![a](/images/8-SetUpApplicationLoadbalance/Pastedimage20240305161202.png)
 
 Fruits
 
-![](a../images/8-SetUpApplicationLoadbalance/Pastedimage20240305161247.png)
+![a](/images/8-SetUpApplicationLoadbalance/Pastedimage20240305161247.png)
