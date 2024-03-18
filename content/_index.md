@@ -10,7 +10,7 @@ chapter : false
 High Availability Architecture on AWS.
 The purpose of building this architecture is to ensure high availability and fast recoverability when incidents occur for the system.
 
-![](../images/Pastedimage20240306173225.png)
+![a](/images/Pastedimage20240306173225.png)
 
 The architecture is designed as follows:
 - A VPC is created across 2 zones: us-west-1a and us-west-1b to avoid outages caused by incidents in a single zone and ensure high availability.
